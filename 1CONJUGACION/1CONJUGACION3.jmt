@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Conrado Benito</dc:creator>
+    <dc:title>VERBOS DE LA 1&amp;#x00AA; CONJUGACI&amp;#x00D3;N</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>VERBOS DE LA 1&amp;#x00AA; CONJUGACI&amp;#x00D3;N</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???</default-right-item>
+
+<pair>
+<left-item><text>Presente indicativo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Vosotros not&amp;#x00E1;is</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Pret&amp;#x00E9;rito imperfecto indicativo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>T&amp;#x00FA; elimaste</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Pret&amp;#x00E9;rito perfecto simple indicativo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Ellos habitaron</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Futuro simple indicativo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Vosotros peinar&amp;#x00E9;is</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Pret&amp;#x00E9;rito imperfecto subjuntivo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Yo mezclase</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Pret&amp;#x00E9;rio perfecto compuesto subjuntivo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Nosotros hayamos dudado</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Pret&amp;#x00E9;rito pluscuamperfecto indicativo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>T&amp;#x00FA; hab&amp;#x00ED;as amado</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Pret&amp;#x00E9;rito pluscuamperfecto subjuntivo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x00C9;l hubiera ganado</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Presente subjuntivo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Ellos dibujen</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Futuro compuesto subjuntivo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Yo hubiere pasado</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Pret&amp;#x00E9;rio perfecto compuesto indicativo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>T&amp;#x00FA; has llevado</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Futuo compuesto indicativo</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Vosotros habr&amp;#x00E9;is pescado</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<next-ex-url>Repaso.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<shuffle-questions>1</shuffle-questions>
+<separate-javascript-file>0</separate-javascript-file>
+<next-caption>SIGUIENTE</next-caption>
+<delete-caption>BORRAR</delete-caption>
+<guess-correct>Intento correcto</guess-correct>
+<guess-incorrect>Intento incorrecto</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Su puntuaci&amp;#x00F3;n es:</your-score-is>
+<correct-indicator>&amp;#x2714;</correct-indicator>
+<incorrect-indicator>&amp;#x2718;</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<times-up>Your time is over!</times-up>
+<check-caption>COMPROBAR</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>SIGUIENTE=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=ANTERIOR</back-caption>
+<contents-caption>&amp;#x00CD;NDICE</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>index.html.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#ff0000</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#0000ff</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>
